@@ -1,0 +1,10 @@
+node_modules
+.openzeppelin
+.vscode
+.private.json
+opensrc
+flatten.bat
+
+#Hardhat files
+cache
+artifacts
